@@ -1,0 +1,1 @@
+# Temperature-and-wind-speed-prediction-in-the-ozone-layer-using-ARIMA-Model
